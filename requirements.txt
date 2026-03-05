@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+databases
+alembic
+langgraph
+httpx
+pytest
+pytest-asyncio
+python-dotenv
+psycopg2-binary
+python-multipart
+aiofiles
+email-validator
+passlib[bcrypt]
